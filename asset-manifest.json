@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/soloprueba/static/css/main.93a49804.chunk.css",
-    "main.js": "/soloprueba/static/js/main.c046aed7.chunk.js",
-    "main.js.map": "/soloprueba/static/js/main.c046aed7.chunk.js.map",
+    "main.css": "/soloprueba/static/css/main.7dcccb5b.chunk.css",
+    "main.js": "/soloprueba/static/js/main.7e2cce35.chunk.js",
+    "main.js.map": "/soloprueba/static/js/main.7e2cce35.chunk.js.map",
     "runtime-main.js": "/soloprueba/static/js/runtime-main.d5800bcd.js",
     "runtime-main.js.map": "/soloprueba/static/js/runtime-main.d5800bcd.js.map",
     "static/css/2.122ccc4d.chunk.css": "/soloprueba/static/css/2.122ccc4d.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.7eded4c9.chunk.js.map": "/soloprueba/static/js/2.7eded4c9.chunk.js.map",
     "index.html": "/soloprueba/index.html",
     "static/css/2.122ccc4d.chunk.css.map": "/soloprueba/static/css/2.122ccc4d.chunk.css.map",
-    "static/css/main.93a49804.chunk.css.map": "/soloprueba/static/css/main.93a49804.chunk.css.map",
+    "static/css/main.7dcccb5b.chunk.css.map": "/soloprueba/static/css/main.7dcccb5b.chunk.css.map",
     "static/js/2.7eded4c9.chunk.js.LICENSE.txt": "/soloprueba/static/js/2.7eded4c9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/soloprueba/static/media/fondoQatar.0db0b5b1.png"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.d5800bcd.js",
     "static/css/2.122ccc4d.chunk.css",
     "static/js/2.7eded4c9.chunk.js",
-    "static/css/main.93a49804.chunk.css",
-    "static/js/main.c046aed7.chunk.js"
+    "static/css/main.7dcccb5b.chunk.css",
+    "static/js/main.7e2cce35.chunk.js"
   ]
 }
