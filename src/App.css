@@ -47,6 +47,9 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.imgFlagPAI{
+  content:url("./img/PAI.svg");
+}
 
 
 .classA{

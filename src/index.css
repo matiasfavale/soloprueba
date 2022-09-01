@@ -48,6 +48,10 @@ nav {
   background-size: cover;
 }
 
+.imgFlagPAI{
+  content:url("./img/PAI.svg");
+}
+
 
 .classA{
   border-bottom-color: orange;
