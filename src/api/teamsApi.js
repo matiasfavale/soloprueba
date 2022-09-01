@@ -1,5 +1,8 @@
 import { handleResponse, handleError } from "./apiUtils";
-const baseUrl = process.env.API_URL + "/api/teams/";
+var sUrlHeroku = "https://miprode.herokuapp.com";
+const baseUrl = sUrlHeroku + "/api/teams/";
+//const baseUrl = process.env.API_URL + "/api/teams/";
+
 
 export function getTeams(userLogin) {
     const myHeaders = new Headers();

@@ -1,5 +1,6 @@
 import { handleResponse, handleError } from "./apiUtils";
-const baseUrl = process.env.API_URL + "/courses/";
+var sUrlHeroku = "https://miprode.herokuapp.com";
+const baseUrl = sUrlHeroku + "/courses/";
 
 export function getCourses() {
   return fetch(baseUrl)
