@@ -23,6 +23,7 @@ import ManageChampionModal from "./champion/ManageChampionModal";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import * as registerActions from "../redux/actions/login/registerActions";
+import './App.css';
 
 const App = ({ userLogin , actions}) => {
   
