@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/soloprueba/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/soloprueba/static/js/main.fdc44adc.chunk.js",
-    "main.js.map": "/soloprueba/static/js/main.fdc44adc.chunk.js.map",
-    "runtime-main.js": "/soloprueba/static/js/runtime-main.61fb87c9.js",
-    "runtime-main.js.map": "/soloprueba/static/js/runtime-main.61fb87c9.js.map",
-    "static/js/2.05cfffe6.chunk.js": "/soloprueba/static/js/2.05cfffe6.chunk.js",
-    "static/js/2.05cfffe6.chunk.js.map": "/soloprueba/static/js/2.05cfffe6.chunk.js.map",
-    "static/js/3.72bd6fbf.chunk.js": "/soloprueba/static/js/3.72bd6fbf.chunk.js",
-    "static/js/3.72bd6fbf.chunk.js.map": "/soloprueba/static/js/3.72bd6fbf.chunk.js.map",
+    "main.css": "/soloprueba/static/css/main.b426e221.chunk.css",
+    "main.js": "/soloprueba/static/js/main.ddd10608.chunk.js",
+    "main.js.map": "/soloprueba/static/js/main.ddd10608.chunk.js.map",
+    "runtime-main.js": "/soloprueba/static/js/runtime-main.d5800bcd.js",
+    "runtime-main.js.map": "/soloprueba/static/js/runtime-main.d5800bcd.js.map",
+    "static/css/2.122ccc4d.chunk.css": "/soloprueba/static/css/2.122ccc4d.chunk.css",
+    "static/js/2.e1e180c8.chunk.js": "/soloprueba/static/js/2.e1e180c8.chunk.js",
+    "static/js/2.e1e180c8.chunk.js.map": "/soloprueba/static/js/2.e1e180c8.chunk.js.map",
     "index.html": "/soloprueba/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/soloprueba/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.05cfffe6.chunk.js.LICENSE.txt": "/soloprueba/static/js/2.05cfffe6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/soloprueba/static/media/logo.6ce24c58.svg"
+    "static/css/2.122ccc4d.chunk.css.map": "/soloprueba/static/css/2.122ccc4d.chunk.css.map",
+    "static/css/main.b426e221.chunk.css.map": "/soloprueba/static/css/main.b426e221.chunk.css.map",
+    "static/js/2.e1e180c8.chunk.js.LICENSE.txt": "/soloprueba/static/js/2.e1e180c8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/soloprueba/static/media/fondoQatar.0db0b5b1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61fb87c9.js",
-    "static/js/2.05cfffe6.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.fdc44adc.chunk.js"
+    "static/js/runtime-main.d5800bcd.js",
+    "static/css/2.122ccc4d.chunk.css",
+    "static/js/2.e1e180c8.chunk.js",
+    "static/css/main.b426e221.chunk.css",
+    "static/js/main.ddd10608.chunk.js"
   ]
 }
