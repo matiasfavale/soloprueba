@@ -7,6 +7,7 @@ const baseUrlCode = sUrlHeroku + "/api/user/registerCodeAuth/";
 
 export function postUser(user) {
   const registerData = {name: user.name, email:user.email, password:user.password};
+  console.log(baseUrl);
   return fetch(baseUrl, {
     method: "POST", // POST for create, PUT to update when id already exists.
     headers: { "content-type": "application/json" },
