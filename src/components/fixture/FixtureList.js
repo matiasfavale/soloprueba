@@ -39,7 +39,7 @@ const FixtrueList = ({ matches ,  errors = {}, onChange, onSaveClick, activeItem
                       <td>{match.Fecha}</td>            
                       <td>
                         <div className="imageEquipo">
-                          <img className="imgFlagPAI"></img>              
+                          <img className="imgFlag imgFlagPAI"></img>              
                           <br></br>
                           <span>{match.EquipoL}</span>
                         </div>
